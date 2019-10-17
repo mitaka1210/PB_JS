@@ -1,0 +1,9 @@
+{
+	"start Program": {
+		"prefix": "is",
+		"body": "input.shift()",
+		"description": "input"
+
+	}
+
+}

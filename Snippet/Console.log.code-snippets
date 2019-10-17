@@ -1,0 +1,8 @@
+{
+	"console log": {
+		"prefix": "cw",
+		"body": "console.log(`${}`)",
+		"description": "Console log"
+
+	}
+}
